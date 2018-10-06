@@ -2,7 +2,7 @@
 
 Install Code Composer Studio to program the cc2650 launchpad.
 
-Download SimpleLink Academy and TI BLE SDK from the link below:
+Download SimpleLink Academy and TI BLE SDK from the link:
 http://software-dl.ti.com/lprf/simplelink_academy/overview.html
 
 Import the ADC Ranger BLE project from SimpleLink Academy under Sensor Controller using Resource Explorer Classic. This contains the example code that uses an ultrasonic sensor to read ADC values and send data via bluetooth. Replace the files from the following folders with the one in this github repository:
