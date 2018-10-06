@@ -12,4 +12,7 @@ Import the ADC Ranger BLE project from SimpleLink Academy under Sensor Controlle
 4. Scif
 5. Startup
 
-The ADC sensors can be configured by iniliazing the ADC drivers from ADC.h or using Sensor Controller Studio. Sensor Controller Studio generates the code for the sensors and the codes are placed in the Scif folder.
+The ADC sensors can be configured by iniliazing the ADC drivers from ADC.h or using Sensor Controller Studio. Sensor Controller Studio generates the code for the sensors and the codes are placed in the Scif folder. 
+
+Bluetooth services can be created using the bluetooth service generator located in the link:
+http://software-dl.ti.com/lprf/simplelink_academy/modules/ble_01_custom_profile/ble_01_custom_profile.html
