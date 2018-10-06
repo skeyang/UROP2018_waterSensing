@@ -363,5 +363,4 @@ void SC_processTaskAlert(void)
 
 void SC_execSensor(void)
 {
-
 } // SC_execRanger
